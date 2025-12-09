@@ -3,6 +3,6 @@
 #     print (number)
 #write a for loop that prints out var and increments it 10 times
 var = 0
-var += 1
+var += 2
 print (var)
 
